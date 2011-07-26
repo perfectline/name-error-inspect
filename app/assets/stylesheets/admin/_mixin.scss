@@ -1,0 +1,85 @@
+@mixin border_radius($radius) {
+  border-radius: $radius;
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+}
+
+@mixin border_radius_top($radius) {
+  border-radius-topleft: $radius;
+  border-radius-topright: $radius;
+  -moz-border-radius-topleft: $radius;
+  -moz-border-radius-topright: $radius;
+  -webkit-border-top-left-radius: $radius;
+  -webkit-border-top-right-radius: $radius;
+}
+
+@mixin border_radius_bottom($radius) {
+  border-radius-bottomleft: $radius;
+  border-radius-bottomright: $radius;
+  -moz-border-radius-bottomleft: $radius;
+  -moz-border-radius-bottomright: $radius;
+  -webkit-border-bottom-left-radius: $radius;
+  -webkit-border-bottom-right-radius: $radius;
+}
+
+@mixin border_radius_right($radius) {
+  border-radius-topright: $radius;
+  border-radius-bottomright: $radius;
+  -moz-border-radius-topright: $radius;
+  -moz-border-radius-bottomright: $radius;
+  -webkit-border-top-right-radius: $radius;
+  -webkit-border-bottom-right-radius: $radius;
+}
+
+@mixin border_radius_left($radius) {
+  border-radius-topleft: $radius;
+  border-radius-bottomleft: $radius;
+  -moz-border-radius-topleft: $radius;
+  -moz-border-radius-bottomleft: $radius;
+  -webkit-border-top-left-radius: $radius;
+  -webkit-border-bottom-left-radius: $radius;
+}
+
+@mixin box_shadow($hor,$vertical,$blur,$color) {
+  box-shadow: $hor $vertical $blur $color;
+  -moz-box-shadow: $hor $vertical $blur $color;
+  -webkit-box-shadow: $hor $vertical $blur $color;
+}
+
+@mixin box_shadow_inset($hor,$vertical,$blur,$color) {
+  box-shadow: inset $hor $vertical $blur $color;
+  -moz-box-shadow: inset $hor $vertical $blur $color;
+  -webkit-box-shadow: inset $hor $vertical $blur $color;
+}
+
+@mixin box_shadow_mixed($hor_inset,$vertical_inset,$blur_inset,$color_inset,$hor_outset,$vertical_outset,$blur_outset,$color_outset) {
+  box-shadow: inset $hor_inset $vertical_inset $blur_inset $color_inset, $hor_outset $vertical_outset $blur_outset $color_outset;
+  -moz-box-shadow: inset $hor_inset $vertical_inset $blur_inset $color_inset, $hor_outset $vertical_outset $blur_outset $color_outset;
+  -webkit-box-shadow: inset $hor_inset $vertical_inset $blur_inset $color_inset, $hor_outset $vertical_outset $blur_outset $color_outset;
+}
+
+@mixin box_shadow_none {
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+@mixin font_arial {
+  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+}
+
+@mixin font_verdana {
+  font-family: "Lucida Grande", Verdana, sans-serif;
+}
+
+@mixin font_myriad {
+  font-family: "Myriad Pro", "Helvetica Neue", HelveticaNeue, Arial, sans-serif;
+}
+
+
+
+// Colors variable settings
+$dark_grey: #282828;
+$light_grey: #282828;
+$primary_link: #282828;
+$secondary_link: #282828;

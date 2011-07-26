@@ -1,0 +1,45 @@
+.ui-rangepicker-container {
+  position: absolute;
+}
+
+.ui-rangepicker {
+  display: inline-block;
+  position: relative;
+  padding: 15px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 16px;
+  -moz-border-radius: 16px;
+  -webkit-border-radius: 16px;
+/*  border: 4px solid rgba(0,0,0,0.2); */
+}
+
+.ui-rangepicker button {
+  position: absolute;
+  top: -5px;
+  right: -10px;
+  display: none;
+}
+
+.range-start,
+.range-stop {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+.range-start {
+  margin: 0 15px 0 0;
+}
+
+.ui-datepicker th {
+  padding: 0.1em 0.3em;
+}
+
+.ui-datepicker td span,
+.ui-datepicker td a {
+  text-align: center;
+  display: block;
+  padding: 0;
+  min-width: 20px;
+  min-height: 20px;
+}

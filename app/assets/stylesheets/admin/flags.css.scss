@@ -1,0 +1,733 @@
+@import "_mixin.scss";
+
+.flags {
+  &.ad {
+    background: url("/images/admin/flags/ad.png") left center no-repeat;
+  }
+  &.ae {
+    background: url("/images/admin/flags/ae.png") left center no-repeat;
+  }
+  &.af {
+    background: url("/images/admin/flags/af.png") left center no-repeat;
+  }
+  &.ag {
+    background: url("/images/admin/flags/ag.png") left center no-repeat;
+  }
+  &.ai {
+    background: url("/images/admin/flags/ai.png") left center no-repeat;
+  }
+  &.al {
+    background: url("/images/admin/flags/al.png") left center no-repeat;
+  }
+  &.am {
+    background: url("/images/admin/flags/am.png") left center no-repeat;
+  }
+  &.an {
+    background: url("/images/admin/flags/an.png") left center no-repeat;
+  }
+  &.ao {
+    background: url("/images/admin/flags/ao.png") left center no-repeat;
+  }
+  &.ar {
+    background: url("/images/admin/flags/ar.png") left center no-repeat;
+  }
+  &.as {
+    background: url("/images/admin/flags/as.png") left center no-repeat;
+  }
+  &.at {
+    background: url("/images/admin/flags/at.png") left center no-repeat;
+  }
+  &.au {
+    background: url("/images/admin/flags/au.png") left center no-repeat;
+  }
+  &.aw {
+    background: url("/images/admin/flags/aw.png") left center no-repeat;
+  }
+  &.ax {
+    background: url("/images/admin/flags/ax.png") left center no-repeat;
+  }
+  &.az {
+    background: url("/images/admin/flags/az.png") left center no-repeat;
+  }
+  &.ba {
+    background: url("/images/admin/flags/ba.png") left center no-repeat;
+  }
+  &.bb {
+    background: url("/images/admin/flags/bb.png") left center no-repeat;
+  }
+  &.bd {
+    background: url("/images/admin/flags/bd.png") left center no-repeat;
+  }
+  &.be {
+    background: url("/images/admin/flags/be.png") left center no-repeat;
+  }
+  &.bf {
+    background: url("/images/admin/flags/bf.png") left center no-repeat;
+  }
+  &.bg {
+    background: url("/images/admin/flags/bg.png") left center no-repeat;
+  }
+  &.bh {
+    background: url("/images/admin/flags/bh.png") left center no-repeat;
+  }
+  &.bi {
+    background: url("/images/admin/flags/bi.png") left center no-repeat;
+  }
+  &.bj {
+    background: url("/images/admin/flags/bj.png") left center no-repeat;
+  }
+  &.bm {
+    background: url("/images/admin/flags/bm.png") left center no-repeat;
+  }
+  &.bn {
+    background: url("/images/admin/flags/bn.png") left center no-repeat;
+  }
+  &.bo {
+    background: url("/images/admin/flags/bo.png") left center no-repeat;
+  }
+  &.br {
+    background: url("/images/admin/flags/br.png") left center no-repeat;
+  }
+  &.bs {
+    background: url("/images/admin/flags/bs.png") left center no-repeat;
+  }
+  &.bt {
+    background: url("/images/admin/flags/bt.png") left center no-repeat;
+  }
+  &.bv {
+    background: url("/images/admin/flags/bv.png") left center no-repeat;
+  }
+  &.bw {
+    background: url("/images/admin/flags/bw.png") left center no-repeat;
+  }
+  &.by {
+    background: url("/images/admin/flags/by.png") left center no-repeat;
+  }
+  &.bz {
+    background: url("/images/admin/flags/bz.png") left center no-repeat;
+  }
+  &.ca {
+    background: url("/images/admin/flags/ca.png") left center no-repeat;
+  }
+  &.cc {
+    background: url("/images/admin/flags/cc.png") left center no-repeat;
+  }
+  &.cd {
+    background: url("/images/admin/flags/cd.png") left center no-repeat;
+  }
+  &.cf {
+    background: url("/images/admin/flags/cf.png") left center no-repeat;
+  }
+  &.cg {
+    background: url("/images/admin/flags/cg.png") left center no-repeat;
+  }
+  &.ch {
+    background: url("/images/admin/flags/ch.png") left center no-repeat;
+  }
+  &.ci {
+    background: url("/images/admin/flags/ci.png") left center no-repeat;
+  }
+  &.ck {
+    background: url("/images/admin/flags/ck.png") left center no-repeat;
+  }
+  &.cl {
+    background: url("/images/admin/flags/cl.png") left center no-repeat;
+  }
+  &.cm {
+    background: url("/images/admin/flags/cm.png") left center no-repeat;
+  }
+  &.cn {
+    background: url("/images/admin/flags/cn.png") left center no-repeat;
+  }
+  &.co {
+    background: url("/images/admin/flags/co.png") left center no-repeat;
+  }
+  &.cr {
+    background: url("/images/admin/flags/cr.png") left center no-repeat;
+  }
+  &.cs {
+    background: url("/images/admin/flags/cs.png") left center no-repeat;
+  }
+  &.cu {
+    background: url("/images/admin/flags/cu.png") left center no-repeat;
+  }
+  &.cv {
+    background: url("/images/admin/flags/cv.png") left center no-repeat;
+  }
+  &.cx {
+    background: url("/images/admin/flags/cx.png") left center no-repeat;
+  }
+  &.cy {
+    background: url("/images/admin/flags/cy.png") left center no-repeat;
+  }
+  &.cz {
+    background: url("/images/admin/flags/cz.png") left center no-repeat;
+  }
+  &.de {
+    background: url("/images/admin/flags/de.png") left center no-repeat;
+  }
+  &.dj {
+    background: url("/images/admin/flags/dj.png") left center no-repeat;
+  }
+  &.dk {
+    background: url("/images/admin/flags/dk.png") left center no-repeat;
+  }
+  &.dm {
+    background: url("/images/admin/flags/dm.png") left center no-repeat;
+  }
+  &.do {
+    background: url("/images/admin/flags/do.png") left center no-repeat;
+  }
+  &.dz {
+    background: url("/images/admin/flags/dz.png") left center no-repeat;
+  }
+  &.ec {
+    background: url("/images/admin/flags/ec.png") left center no-repeat;
+  }
+  &.ee {
+    background: url("/images/admin/flags/ee.png") left center no-repeat;
+  }
+  &.eg {
+    background: url("/images/admin/flags/eg.png") left center no-repeat;
+  }
+  &.eh {
+    background: url("/images/admin/flags/eh.png") left center no-repeat;
+  }
+  &.er {
+    background: url("/images/admin/flags/er.png") left center no-repeat;
+  }
+  &.es {
+    background: url("/images/admin/flags/es.png") left center no-repeat;
+  }
+  &.et {
+    background: url("/images/admin/flags/et.png") left center no-repeat;
+  }
+  &.eu {
+    background: url("/images/admin/flags/eu.png") left center no-repeat;
+  }
+  &.fam {
+    background: url("/images/admin/flags/fam.png") left center no-repeat;
+  }
+  &.fi {
+    background: url("/images/admin/flags/fi.png") left center no-repeat;
+  }
+  &.fj {
+    background: url("/images/admin/flags/fj.png") left center no-repeat;
+  }
+  &.fk {
+    background: url("/images/admin/flags/fk.png") left center no-repeat;
+  }
+  &.fm {
+    background: url("/images/admin/flags/fm.png") left center no-repeat;
+  }
+  &.fo {
+    background: url("/images/admin/flags/fo.png") left center no-repeat;
+  }
+  &.fr {
+    background: url("/images/admin/flags/fr.png") left center no-repeat;
+  }
+  &.ga {
+    background: url("/images/admin/flags/ga.png") left center no-repeat;
+  }
+  &.gb {
+    background: url("/images/admin/flags/gb.png") left center no-repeat;
+  }
+  &.gd {
+    background: url("/images/admin/flags/gd.png") left center no-repeat;
+  }
+  &.ge {
+    background: url("/images/admin/flags/ge.png") left center no-repeat;
+  }
+  &.gf {
+    background: url("/images/admin/flags/gf.png") left center no-repeat;
+  }
+  &.gh {
+    background: url("/images/admin/flags/gh.png") left center no-repeat;
+  }
+  &.gi {
+    background: url("/images/admin/flags/gi.png") left center no-repeat;
+  }
+  &.gl {
+    background: url("/images/admin/flags/gl.png") left center no-repeat;
+  }
+  &.gm {
+    background: url("/images/admin/flags/gm.png") left center no-repeat;
+  }
+  &.gn {
+    background: url("/images/admin/flags/gn.png") left center no-repeat;
+  }
+  &.gp {
+    background: url("/images/admin/flags/gp.png") left center no-repeat;
+  }
+  &.gq {
+    background: url("/images/admin/flags/gq.png") left center no-repeat;
+  }
+  &.gr {
+    background: url("/images/admin/flags/gr.png") left center no-repeat;
+  }
+  &.gs {
+    background: url("/images/admin/flags/gs.png") left center no-repeat;
+  }
+  &.gt {
+    background: url("/images/admin/flags/gt.png") left center no-repeat;
+  }
+  &.gu {
+    background: url("/images/admin/flags/gu.png") left center no-repeat;
+  }
+  &.gw {
+    background: url("/images/admin/flags/gw.png") left center no-repeat;
+  }
+  &.gy {
+    background: url("/images/admin/flags/gy.png") left center no-repeat;
+  }
+  &.hk {
+    background: url("/images/admin/flags/hk.png") left center no-repeat;
+  }
+  &.hm {
+    background: url("/images/admin/flags/hm.png") left center no-repeat;
+  }
+  &.hn {
+    background: url("/images/admin/flags/hn.png") left center no-repeat;
+  }
+  &.hr {
+    background: url("/images/admin/flags/hr.png") left center no-repeat;
+  }
+  &.ht {
+    background: url("/images/admin/flags/ht.png") left center no-repeat;
+  }
+  &.hu {
+    background: url("/images/admin/flags/hu.png") left center no-repeat;
+  }
+  &.id {
+    background: url("/images/admin/flags/id.png") left center no-repeat;
+  }
+  &.ie {
+    background: url("/images/admin/flags/ie.png") left center no-repeat;
+  }
+  &.il {
+    background: url("/images/admin/flags/il.png") left center no-repeat;
+  }
+  &.in {
+    background: url("/images/admin/flags/in.png") left center no-repeat;
+  }
+  &.io {
+    background: url("/images/admin/flags/io.png") left center no-repeat;
+  }
+  &.iq {
+    background: url("/images/admin/flags/iq.png") left center no-repeat;
+  }
+  &.ir {
+    background: url("/images/admin/flags/ir.png") left center no-repeat;
+  }
+  &.is {
+    background: url("/images/admin/flags/is.png") left center no-repeat;
+  }
+  &.it {
+    background: url("/images/admin/flags/it.png") left center no-repeat;
+  }
+  &.jm {
+    background: url("/images/admin/flags/jm.png") left center no-repeat;
+  }
+  &.jo {
+    background: url("/images/admin/flags/jo.png") left center no-repeat;
+  }
+  &.jp {
+    background: url("/images/admin/flags/jp.png") left center no-repeat;
+  }
+  &.ke {
+    background: url("/images/admin/flags/ke.png") left center no-repeat;
+  }
+  &.kg {
+    background: url("/images/admin/flags/kg.png") left center no-repeat;
+  }
+  &.kh {
+    background: url("/images/admin/flags/kh.png") left center no-repeat;
+  }
+  &.ki {
+    background: url("/images/admin/flags/ki.png") left center no-repeat;
+  }
+  &.km {
+    background: url("/images/admin/flags/km.png") left center no-repeat;
+  }
+  &.kn {
+    background: url("/images/admin/flags/kn.png") left center no-repeat;
+  }
+  &.kp {
+    background: url("/images/admin/flags/kp.png") left center no-repeat;
+  }
+  &.kr {
+    background: url("/images/admin/flags/kr.png") left center no-repeat;
+  }
+  &.kw {
+    background: url("/images/admin/flags/kw.png") left center no-repeat;
+  }
+  &.ky {
+    background: url("/images/admin/flags/ky.png") left center no-repeat;
+  }
+  &.kz {
+    background: url("/images/admin/flags/kz.png") left center no-repeat;
+  }
+  &.la {
+    background: url("/images/admin/flags/la.png") left center no-repeat;
+  }
+  &.lb {
+    background: url("/images/admin/flags/lb.png") left center no-repeat;
+  }
+  &.lc {
+    background: url("/images/admin/flags/lc.png") left center no-repeat;
+  }
+  &.li {
+    background: url("/images/admin/flags/li.png") left center no-repeat;
+  }
+  &.lk {
+    background: url("/images/admin/flags/lk.png") left center no-repeat;
+  }
+  &.lr {
+    background: url("/images/admin/flags/lr.png") left center no-repeat;
+  }
+  &.ls {
+    background: url("/images/admin/flags/ls.png") left center no-repeat;
+  }
+  &.lt {
+    background: url("/images/admin/flags/lt.png") left center no-repeat;
+  }
+  &.lu {
+    background: url("/images/admin/flags/lu.png") left center no-repeat;
+  }
+  &.lv {
+    background: url("/images/admin/flags/lv.png") left center no-repeat;
+  }
+  &.ly {
+    background: url("/images/admin/flags/ly.png") left center no-repeat;
+  }
+  &.ma {
+    background: url("/images/admin/flags/ma.png") left center no-repeat;
+  }
+  &.mc {
+    background: url("/images/admin/flags/mc.png") left center no-repeat;
+  }
+  &.md {
+    background: url("/images/admin/flags/md.png") left center no-repeat;
+  }
+  &.me {
+    background: url("/images/admin/flags/me.png") left center no-repeat;
+  }
+  &.mg {
+    background: url("/images/admin/flags/mg.png") left center no-repeat;
+  }
+  &.mh {
+    background: url("/images/admin/flags/mh.png") left center no-repeat;
+  }
+  &.mk {
+    background: url("/images/admin/flags/mk.png") left center no-repeat;
+  }
+  &.ml {
+    background: url("/images/admin/flags/ml.png") left center no-repeat;
+  }
+  &.mm {
+    background: url("/images/admin/flags/mm.png") left center no-repeat;
+  }
+  &.mn {
+    background: url("/images/admin/flags/mn.png") left center no-repeat;
+  }
+  &.mo {
+    background: url("/images/admin/flags/mo.png") left center no-repeat;
+  }
+  &.mp {
+    background: url("/images/admin/flags/mp.png") left center no-repeat;
+  }
+  &.mq {
+    background: url("/images/admin/flags/mq.png") left center no-repeat;
+  }
+  &.mr {
+    background: url("/images/admin/flags/mr.png") left center no-repeat;
+  }
+  &.ms {
+    background: url("/images/admin/flags/ms.png") left center no-repeat;
+  }
+  &.mt {
+    background: url("/images/admin/flags/mt.png") left center no-repeat;
+  }
+  &.mu {
+    background: url("/images/admin/flags/mu.png") left center no-repeat;
+  }
+  &.mv {
+    background: url("/images/admin/flags/mv.png") left center no-repeat;
+  }
+  &.mw {
+    background: url("/images/admin/flags/mw.png") left center no-repeat;
+  }
+  &.mx {
+    background: url("/images/admin/flags/mx.png") left center no-repeat;
+  }
+  &.my {
+    background: url("/images/admin/flags/my.png") left center no-repeat;
+  }
+  &.mz {
+    background: url("/images/admin/flags/mz.png") left center no-repeat;
+  }
+  &.na {
+    background: url("/images/admin/flags/na.png") left center no-repeat;
+  }
+  &.nc {
+    background: url("/images/admin/flags/nc.png") left center no-repeat;
+  }
+  &.ne {
+    background: url("/images/admin/flags/ne.png") left center no-repeat;
+  }
+  &.nf {
+    background: url("/images/admin/flags/nf.png") left center no-repeat;
+  }
+  &.ng {
+    background: url("/images/admin/flags/ng.png") left center no-repeat;
+  }
+  &.ni {
+    background: url("/images/admin/flags/ni.png") left center no-repeat;
+  }
+  &.nl {
+    background: url("/images/admin/flags/nl.png") left center no-repeat;
+  }
+  &.no {
+    background: url("/images/admin/flags/no.png") left center no-repeat;
+  }
+  &.np {
+    background: url("/images/admin/flags/np.png") left center no-repeat;
+  }
+  &.nr {
+    background: url("/images/admin/flags/nr.png") left center no-repeat;
+  }
+  &.nu {
+    background: url("/images/admin/flags/nu.png") left center no-repeat;
+  }
+  &.nz {
+    background: url("/images/admin/flags/nz.png") left center no-repeat;
+  }
+  &.om {
+    background: url("/images/admin/flags/om.png") left center no-repeat;
+  }
+  &.pa {
+    background: url("/images/admin/flags/pa.png") left center no-repeat;
+  }
+  &.pe {
+    background: url("/images/admin/flags/pe.png") left center no-repeat;
+  }
+  &.pf {
+    background: url("/images/admin/flags/pf.png") left center no-repeat;
+  }
+  &.pg {
+    background: url("/images/admin/flags/pg.png") left center no-repeat;
+  }
+  &.ph {
+    background: url("/images/admin/flags/ph.png") left center no-repeat;
+  }
+  &.pk {
+    background: url("/images/admin/flags/pk.png") left center no-repeat;
+  }
+  &.pl {
+    background: url("/images/admin/flags/pl.png") left center no-repeat;
+  }
+  &.pm {
+    background: url("/images/admin/flags/pm.png") left center no-repeat;
+  }
+  &.pn {
+    background: url("/images/admin/flags/pn.png") left center no-repeat;
+  }
+  &.pr {
+    background: url("/images/admin/flags/pr.png") left center no-repeat;
+  }
+  &.ps {
+    background: url("/images/admin/flags/ps.png") left center no-repeat;
+  }
+  &.pt {
+    background: url("/images/admin/flags/pt.png") left center no-repeat;
+  }
+  &.pw {
+    background: url("/images/admin/flags/pw.png") left center no-repeat;
+  }
+  &.py {
+    background: url("/images/admin/flags/py.png") left center no-repeat;
+  }
+  &.qa {
+    background: url("/images/admin/flags/qa.png") left center no-repeat;
+  }
+  &.re {
+    background: url("/images/admin/flags/re.png") left center no-repeat;
+  }
+  &.ro {
+    background: url("/images/admin/flags/ro.png") left center no-repeat;
+  }
+  &.rs {
+    background: url("/images/admin/flags/rs.png") left center no-repeat;
+  }
+  &.ru {
+    background: url("/images/admin/flags/ru.png") left center no-repeat;
+  }
+  &.rw {
+    background: url("/images/admin/flags/rw.png") left center no-repeat;
+  }
+  &.sa {
+    background: url("/images/admin/flags/sa.png") left center no-repeat;
+  }
+  &.sb {
+    background: url("/images/admin/flags/sb.png") left center no-repeat;
+  }
+  &.sc {
+    background: url("/images/admin/flags/sc.png") left center no-repeat;
+  }
+  &.sd {
+    background: url("/images/admin/flags/sd.png") left center no-repeat;
+  }
+  &.se {
+    background: url("/images/admin/flags/se.png") left center no-repeat;
+  }
+  &.sg {
+    background: url("/images/admin/flags/sg.png") left center no-repeat;
+  }
+  &.sh {
+    background: url("/images/admin/flags/sh.png") left center no-repeat;
+  }
+  &.si {
+    background: url("/images/admin/flags/si.png") left center no-repeat;
+  }
+  &.sj {
+    background: url("/images/admin/flags/sj.png") left center no-repeat;
+  }
+  &.sk {
+    background: url("/images/admin/flags/sk.png") left center no-repeat;
+  }
+  &.sl {
+    background: url("/images/admin/flags/sl.png") left center no-repeat;
+  }
+  &.sm {
+    background: url("/images/admin/flags/sm.png") left center no-repeat;
+  }
+  &.sn {
+    background: url("/images/admin/flags/sn.png") left center no-repeat;
+  }
+  &.so {
+    background: url("/images/admin/flags/so.png") left center no-repeat;
+  }
+  &.sr {
+    background: url("/images/admin/flags/sr.png") left center no-repeat;
+  }
+  &.st {
+    background: url("/images/admin/flags/st.png") left center no-repeat;
+  }
+  &.sv {
+    background: url("/images/admin/flags/sv.png") left center no-repeat;
+  }
+  &.sy {
+    background: url("/images/admin/flags/sy.png") left center no-repeat;
+  }
+  &.sz {
+    background: url("/images/admin/flags/sz.png") left center no-repeat;
+  }
+  &.tc {
+    background: url("/images/admin/flags/tc.png") left center no-repeat;
+  }
+  &.td {
+    background: url("/images/admin/flags/td.png") left center no-repeat;
+  }
+  &.tf {
+    background: url("/images/admin/flags/tf.png") left center no-repeat;
+  }
+  &.tg {
+    background: url("/images/admin/flags/tg.png") left center no-repeat;
+  }
+  &.th {
+    background: url("/images/admin/flags/th.png") left center no-repeat;
+  }
+  &.tj {
+    background: url("/images/admin/flags/tj.png") left center no-repeat;
+  }
+  &.tk {
+    background: url("/images/admin/flags/tk.png") left center no-repeat;
+  }
+  &.tl {
+    background: url("/images/admin/flags/tl.png") left center no-repeat;
+  }
+  &.tm {
+    background: url("/images/admin/flags/tm.png") left center no-repeat;
+  }
+  &.tn {
+    background: url("/images/admin/flags/tn.png") left center no-repeat;
+  }
+  &.to {
+    background: url("/images/admin/flags/to.png") left center no-repeat;
+  }
+  &.tr {
+    background: url("/images/admin/flags/tr.png") left center no-repeat;
+  }
+  &.tt {
+    background: url("/images/admin/flags/tt.png") left center no-repeat;
+  }
+  &.tv {
+    background: url("/images/admin/flags/tv.png") left center no-repeat;
+  }
+  &.tw {
+    background: url("/images/admin/flags/tw.png") left center no-repeat;
+  }
+  &.tz {
+    background: url("/images/admin/flags/tz.png") left center no-repeat;
+  }
+  &.ua {
+    background: url("/images/admin/flags/ua.png") left center no-repeat;
+  }
+  &.ug {
+    background: url("/images/admin/flags/ug.png") left center no-repeat;
+  }
+  &.um {
+    background: url("/images/admin/flags/um.png") left center no-repeat;
+  }
+  &.us {
+    background: url("/images/admin/flags/us.png") left center no-repeat;
+  }
+  &.uy {
+    background: url("/images/admin/flags/uy.png") left center no-repeat;
+  }
+  &.uz {
+    background: url("/images/admin/flags/uz.png") left center no-repeat;
+  }
+  &.va {
+    background: url("/images/admin/flags/va.png") left center no-repeat;
+  }
+  &.vc {
+    background: url("/images/admin/flags/vc.png") left center no-repeat;
+  }
+  &.ve {
+    background: url("/images/admin/flags/ve.png") left center no-repeat;
+  }
+  &.vg {
+    background: url("/images/admin/flags/vg.png") left center no-repeat;
+  }
+  &.vi {
+    background: url("/images/admin/flags/vi.png") left center no-repeat;
+  }
+  &.vn {
+    background: url("/images/admin/flags/vn.png") left center no-repeat;
+  }
+  &.vu {
+    background: url("/images/admin/flags/vu.png") left center no-repeat;
+  }
+  &.wf {
+    background: url("/images/admin/flags/wf.png") left center no-repeat;
+  }
+  &.ws {
+    background: url("/images/admin/flags/ws.png") left center no-repeat;
+  }
+  &.ye {
+    background: url("/images/admin/flags/ye.png") left center no-repeat;
+  }
+  &.yt {
+    background: url("/images/admin/flags/yt.png") left center no-repeat;
+  }
+  &.za {
+    background: url("/images/admin/flags/za.png") left center no-repeat;
+  }
+  &.zm {
+    background: url("/images/admin/flags/zm.png") left center no-repeat;
+  }
+  &.zw {
+    background: url("/images/admin/flags/zw.png") left center no-repeat;
+  }
+}

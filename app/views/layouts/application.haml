@@ -1,0 +1,32 @@
+!!! Strict
+%html{:xmlns => "http://www.w3.org/1999/xhtml", :lang => "en", "xml:lang" => "en"}
+  %head
+    %title name-error-inspect
+
+    %meta{:content => "", :name => "description"}
+    %meta{:content => "", :name => "keywords"}
+
+    / Meta
+    %meta{:content => "text/html; charset=utf-8", "http-equiv" => "content-type"}
+    %meta{:content => "noodp", :name => "robots"}
+
+    / Microsoft smarties
+    %meta{:content => "no", "http-equiv" => "ImageResize"}
+    %meta{:content => "no", "http-equiv" => "ImageToolbar"}
+    %meta{:content => "true", :name => "MSSmartTagsPreventParsing"}
+
+    / Icon
+    %link{:href => "/favicon.ico", :rel => "icon", :type => "image/vnd.microsoft.icon"}
+    %link{:href => "/favicon.ico", :rel => "shortcut icon"}
+
+    = javascript_include_tag :admin,  :debug => Rails.env.development?
+    = stylesheet_link_tag :admin, :debug => Rails.env.development?
+
+  %body
+    = render :partial => 'index/foo'
+    = render :partial => 'index/bar'
+
+
+    = yield
+
+    = render :partial => 'index/baz'

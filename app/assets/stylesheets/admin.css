@@ -1,0 +1,13 @@
+//= require common/reset
+//= require admin/base
+//= require admin/general
+//= require admin/content
+//= require admin/forms
+//= require admin/buttons
+//= require admin/flags
+//= require admin/products
+//= require admin/orders
+//= require admin/vendors
+//= require admin/settings
+//= require admin/themes
+//= require jquery
